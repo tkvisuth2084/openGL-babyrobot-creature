@@ -1,0 +1,1 @@
+A simple creautre I built in Python using OpenGL! ! It’s made by piecing together basic shapes (like cubes, spheres, and cylinders) and connecting them with a simple hierarchy so each part moves naturally with the others. You can rotate its joints in real time and watch the whole creature respond through transformation matrices.
