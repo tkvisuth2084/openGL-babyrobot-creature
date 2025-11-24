@@ -14,3 +14,4 @@ Here are some images of the Creature!
 Pose 1
 
 
+![pose1](https://github.com/user-attachments/assets/77d3024b-f9cc-46bb-a3f5-178f760ea8e3)
