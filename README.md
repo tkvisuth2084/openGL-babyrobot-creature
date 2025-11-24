@@ -7,4 +7,5 @@ rendering, and basic character rigging in a custom graphics pipeline.
 
 Here are some images of the Creature!
 
-<img width="864" height="825" alt="Screenshot 2568-11-24 at 16 52 55" src="https://github.com/user-attachments/assets/967735cc-c57e-448a-a89e-9319b5501524" />
+<img width="432" height="412.5" alt="Screenshot 2568-11-24 at 16 52 55" src="https://github.com/user-attachments/assets/967735cc-c57e-448a-a89e-9319b5501524" />
+
