@@ -11,3 +11,6 @@ Here are some images of the Creature!
 
 <img width="492" height="493" alt="Robot_pose1" src="https://github.com/user-attachments/assets/cc8ec08d-daf0-45a5-a973-b8b4921a69ca" />
 
+Pose 1
+
+
